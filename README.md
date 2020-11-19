@@ -1,6 +1,6 @@
 ## Projeto aula react II
 
-## React Hooks:
+### React Hooks:
 
 O React hooks permite o uso de alguns recursos do react sem a necessidade de escrever classes, são funções que permitem o acesso aos recursos de state e ciclo de vida do react a partir de componentes funcionais. O useState, que atualiza o estado, e o useEffect, que gera efeito na tela ao atualizar estado ou na montagem do componente, são exemplos de hooks internos.
 
